@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I am a student on a JavaScript software developer course by Northcoders.
+🌱 I am a Junior Software Developer, proficient in C# using ASP.NET Core and JavaScript using Node.js.
+- ⚡ Notable milestones through my journey in programming so far:
+- 🔭 I did a 3-months-long JavaScript themed bootcamp with Northcoders, which I finished in June.
+- 🔭 Then I decided to learn the C# language and related frameworks. Initially I did the courses on freecodecamp, then later I went on and subscribed to an online learning website, where I learned the fundamentals of  ASP.NET Core. 
